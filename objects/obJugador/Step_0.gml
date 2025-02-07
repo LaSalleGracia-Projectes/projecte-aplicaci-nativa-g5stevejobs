@@ -1,6 +1,6 @@
 /// @description Codigo para mover personaje
 // Puede escribir su código en este editor
-var movHorizontal = keyboard_check(vk_right) - keyboard_check(vk_left);
+var movHorizontal = keyboard_check(ord("D")) - keyboard_check(ord("A"));
 
 if (movHorizontal != 0) {
 	x += movHorizontal * 2;
@@ -8,4 +8,8 @@ if (movHorizontal != 0) {
 	sprite_index = Personaje_Caminando;
 } else {
 	sprite_index = Personaje_Quieto;
+}
+
+if (keyboard_check(ord("W")) && collision_rectangle(x-8,y,x+8,y+1,obPared,false,false)){
+	vspeed = -5.5;
 }
