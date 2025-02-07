@@ -34,6 +34,9 @@
     "name":"Personaje_Quieto",
     "path":"sprites/Personaje_Quieto/Personaje_Quieto.yy",
   },
-  "spriteMaskId":null,
+  "spriteMaskId":{
+    "name":"Mascara_Personaje",
+    "path":"sprites/Mascara_Personaje/Mascara_Personaje.yy",
+  },
   "visible":true,
 }

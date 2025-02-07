@@ -3,7 +3,10 @@
 var movHorizontal = keyboard_check(ord("D")) - keyboard_check(ord("A"));
 
 if (movHorizontal != 0) {
-	x += movHorizontal * 2;
+	if (place_free(x + movHorizontal * 2, y)) {
+			x += movHorizontal * 2;
+	}
+
 	image_xscale = movHorizontal;
 	sprite_index = Personaje_Caminando;
 } else {
