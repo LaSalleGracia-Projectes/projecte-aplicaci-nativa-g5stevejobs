@@ -1,11 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obJugador",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"obObstaculo",
+  "eventList":[],
   "managed":true,
-  "name":"obJugador",
+  "name":"obObstaculo",
   "overriddenProperties":[],
   "parent":{
     "name":"Objetos",
@@ -29,13 +27,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"Personaje_Quieto",
-    "path":"sprites/Personaje_Quieto/Personaje_Quieto.yy",
-  },
-  "spriteMaskId":{
-    "name":"Mascara_Personaje",
-    "path":"sprites/Mascara_Personaje/Mascara_Personaje.yy",
-  },
+  "spriteId":null,
+  "spriteMaskId":null,
   "visible":true,
 }

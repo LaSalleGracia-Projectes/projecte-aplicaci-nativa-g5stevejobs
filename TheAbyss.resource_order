@@ -7,8 +7,11 @@
     {"name":"Sprites","order":1,"path":"folders/Sprites.yy",},
   ],
   "ResourceOrderSettings":[
+    {"name":"obObstaculo","order":2,"path":"objects/obObstaculo/obObstaculo.yy",},
     {"name":"obPared","order":1,"path":"objects/obPared/obPared.yy",},
     {"name":"Bloque","order":1,"path":"sprites/Bloque/Bloque.yy",},
+    {"name":"Mascara_Personaje","order":4,"path":"sprites/Mascara_Personaje/Mascara_Personaje.yy",},
     {"name":"Personaje_Quieto","order":2,"path":"sprites/Personaje_Quieto/Personaje_Quieto.yy",},
+    {"name":"Sprite5","order":3,"path":"sprites/Sprite5/Sprite5.yy",},
   ],
 }
