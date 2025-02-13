@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obPared",
+  "%Name":"objItem",
   "eventList":[],
   "managed":true,
-  "name":"obPared",
+  "name":"objItem",
   "overriddenProperties":[],
   "parent":{
     "name":"Objetos",
@@ -21,21 +21,13 @@
   "physicsRestitution":0.1,
   "physicsSensor":false,
   "physicsShape":1,
-  "physicsShapePoints":[
-    {"x":0.0,"y":0.0,},
-    {"x":64.0,"y":0.0,},
-    {"x":64.0,"y":64.0,},
-    {"x":0.0,"y":64.0,},
-  ],
+  "physicsShapePoints":[],
   "physicsStartAwake":true,
   "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
-  "solid":true,
-  "spriteId":{
-    "name":"Bloque",
-    "path":"sprites/Bloque/Bloque.yy",
-  },
+  "solid":false,
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }

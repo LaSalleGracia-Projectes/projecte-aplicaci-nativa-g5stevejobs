@@ -8,9 +8,9 @@ if (movHorizontal != 0) {
 	}
 
 	image_xscale = movHorizontal;
-	sprite_index = Personaje_Caminando;
+	accion = "_Caminando";
 } else {
-	sprite_index = Personaje_Quieto;
+	accion = "_Quieto";
 }
 
 if (keyboard_check(ord("W")) && collision_rectangle(x-8,y,x+8,y+1,obPared,false,false)){
