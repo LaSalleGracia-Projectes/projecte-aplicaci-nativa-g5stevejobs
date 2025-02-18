@@ -9,7 +9,7 @@ if (movHorizontal != 0) {
 
 	image_xscale = movHorizontal;
 	accion = "_Caminando";
-} else {
+} else if (vspeed == 0) {
 	accion = "_Quieto";
 }
 

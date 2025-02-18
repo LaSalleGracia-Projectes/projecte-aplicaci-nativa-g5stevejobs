@@ -7,7 +7,7 @@ if (!collision_rectangle(x-8,y,x+8,y+1,obPared,false,false)){
 
 if (vspeed > 0) {
 	var ground = collision_rectangle(x-8,y,x+8,y+vspeed,obPared,false,false)
-	if (ground){
+	if (ground && y <= ground.y + 2){
 		y = ground.y;
 		vspeed = 0;
 		gravity = 0;

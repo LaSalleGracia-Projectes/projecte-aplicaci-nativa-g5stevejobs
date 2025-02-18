@@ -3,7 +3,7 @@
   "%Name":"Espada",
   "bboxMode":0,
   "bbox_bottom":5,
-  "bbox_left":1,
+  "bbox_left":0,
   "bbox_right":18,
   "bbox_top":0,
   "collisionKind":1,
