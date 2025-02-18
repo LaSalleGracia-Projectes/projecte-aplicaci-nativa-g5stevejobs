@@ -26,8 +26,8 @@
   "resources":[
     {"id":{"name":"objEspada","path":"objects/objEspada/objEspada.yy",},},
     {"id":{"name":"objItem","path":"objects/objItem/objItem.yy",},},
+    {"id":{"name":"objPlataformaMovible","path":"objects/objPlataformaMovible/objPlataformaMovible.yy",},},
     {"id":{"name":"obJugador","path":"objects/obJugador/obJugador.yy",},},
-    {"id":{"name":"obObstaculo","path":"objects/obObstaculo/obObstaculo.yy",},},
     {"id":{"name":"obPared","path":"objects/obPared/obPared.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"Bloque","path":"sprites/Bloque/Bloque.yy",},},
@@ -37,6 +37,7 @@
     {"id":{"name":"Personaje_Caminando","path":"sprites/Personaje_Caminando/Personaje_Caminando.yy",},},
     {"id":{"name":"Personaje_Quieto_Espada","path":"sprites/Personaje_Quieto_Espada/Personaje_Quieto_Espada.yy",},},
     {"id":{"name":"Personaje_Quieto","path":"sprites/Personaje_Quieto/Personaje_Quieto.yy",},},
+    {"id":{"name":"Plataforma_Movible","path":"sprites/Plataforma_Movible/Plataforma_Movible.yy",},},
     {"id":{"name":"Sprite4","path":"sprites/Sprite4/Sprite4.yy",},},
     {"id":{"name":"Sprite5","path":"sprites/Sprite5/Sprite5.yy",},},
   ],

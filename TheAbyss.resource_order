@@ -9,7 +9,7 @@
   "ResourceOrderSettings":[
     {"name":"objEspada","order":3,"path":"objects/objEspada/objEspada.yy",},
     {"name":"objItem","order":4,"path":"objects/objItem/objItem.yy",},
-    {"name":"obObstaculo","order":2,"path":"objects/obObstaculo/obObstaculo.yy",},
+    {"name":"objPlataformaMovible","order":5,"path":"objects/objPlataformaMovible/objPlataformaMovible.yy",},
     {"name":"obPared","order":1,"path":"objects/obPared/obPared.yy",},
     {"name":"Bloque","order":1,"path":"sprites/Bloque/Bloque.yy",},
     {"name":"Espada","order":7,"path":"sprites/Espada/Espada.yy",},
@@ -17,6 +17,7 @@
     {"name":"Personaje_Caminando_Espada","order":6,"path":"sprites/Personaje_Caminando_Espada/Personaje_Caminando_Espada.yy",},
     {"name":"Personaje_Quieto_Espada","order":5,"path":"sprites/Personaje_Quieto_Espada/Personaje_Quieto_Espada.yy",},
     {"name":"Personaje_Quieto","order":2,"path":"sprites/Personaje_Quieto/Personaje_Quieto.yy",},
+    {"name":"Plataforma_Movible","order":8,"path":"sprites/Plataforma_Movible/Plataforma_Movible.yy",},
     {"name":"Sprite5","order":3,"path":"sprites/Sprite5/Sprite5.yy",},
   ],
 }
