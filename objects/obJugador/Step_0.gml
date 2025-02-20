@@ -1,18 +1,15 @@
 /// @description Codigo para mover personaje
 // Puede escribir su código en este editor
 var movHorizontal = keyboard_check(ord("D")) - keyboard_check(ord("A"));
+var velocidad = 2;
 
 if (movHorizontal != 0) {
-	if (place_free(x + movHorizontal * 2, y)) {
-			x += movHorizontal * 2;
-	}
-
-	image_xscale = movHorizontal;
+	scrCaminar(movHorizontal, velocidad);
 	accion = "_Caminando";
 } else if (vspeed == 0) {
 	accion = "_Quieto";
 }
 
-if (keyboard_check(ord("W")) && collision_rectangle(x-8,y,x+8,y+1,obPared,false,false)){
-	vspeed = -5.5;
+if (keyboard_check_pressed(ord("W"))) {
+	scrSaltar(ancho);
 }
