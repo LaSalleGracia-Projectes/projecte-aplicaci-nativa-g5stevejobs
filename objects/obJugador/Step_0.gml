@@ -16,3 +16,9 @@ if (movHorizontal != 0) {
 if (keyboard_check(ord("W")) && collision_rectangle(x-8,y,x+8,y+1,obPared,false,false)){
 	vspeed = -5.5;
 }
+
+#region Atacar
+if (mouse_check_button(mb_left) && arma != "") {
+	accion = "_Atacar"
+}
+#endregion
