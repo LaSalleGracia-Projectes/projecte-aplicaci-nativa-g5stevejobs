@@ -25,6 +25,7 @@
   },
   "name":"TheAbyss",
   "resources":[
+    {"id":{"name":"obEnemigo","path":"objects/obEnemigo/obEnemigo.yy",},},
     {"id":{"name":"objEspada","path":"objects/objEspada/objEspada.yy",},},
     {"id":{"name":"objItem","path":"objects/objItem/objItem.yy",},},
     {"id":{"name":"objPlataformaMovible","path":"objects/objPlataformaMovible/objPlataformaMovible.yy",},},

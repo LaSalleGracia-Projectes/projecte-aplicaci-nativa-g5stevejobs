@@ -5,7 +5,7 @@ var velocidad = 2;
 
 if (movHorizontal != 0) {
 	scrCaminar(movHorizontal, velocidad);
-	accion = "_Caminando";
+	accion = "_Caminando"; 
 } else if (vspeed == 0) {
 	accion = "_Quieto";
 }

@@ -1,21 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"obSlime",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"obEnemigo",
+  "eventList":[],
   "managed":true,
-  "name":"obSlime",
+  "name":"obEnemigo",
   "overriddenProperties":[],
   "parent":{
     "name":"Enemies",
     "path":"folders/Objetos/Enemies.yy",
   },
-  "parentObjectId":{
-    "name":"obEnemigo",
-    "path":"objects/obEnemigo/obEnemigo.yy",
-  },
+  "parentObjectId":null,
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -33,10 +27,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"Slime_Quieto",
-    "path":"sprites/Slime_Quieto/Slime_Quieto.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }

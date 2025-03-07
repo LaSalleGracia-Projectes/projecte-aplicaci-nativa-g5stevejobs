@@ -1,4 +1,5 @@
+randomize()
 wait = 100
-enemyspeed = -0.7
+enemyspeed = -0.2
 direccion = 1
 health = 10
