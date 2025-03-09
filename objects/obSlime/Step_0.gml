@@ -1,3 +1,4 @@
+/// @description Lógica para mover enemigo random
 var action = irandom(3)
 
 if (wait <= 0) {
