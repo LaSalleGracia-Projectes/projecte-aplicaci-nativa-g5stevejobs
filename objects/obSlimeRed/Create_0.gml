@@ -1,4 +1,5 @@
 /// @description Atributos predeterminados del enemigo
+
 spriteCaminar = SlimeRed_Caminando
 spriteQuieto = SlimeRed_Quieto
 

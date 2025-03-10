@@ -3,5 +3,6 @@
 function scrAtacar(){
 	if (arma != ""){
 		accion = "_Atacar"
+		image_index = 0
 	}
 }
