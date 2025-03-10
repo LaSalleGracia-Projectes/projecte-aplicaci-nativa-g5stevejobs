@@ -1,6 +1,6 @@
 /// @description Atributos predeterminados del enemigo
-spriteCaminar = Slime_Caminando
-spriteQuieto = Slime_Quieto
+spriteCaminar = SlimeRed_Caminando
+spriteQuieto = SlimeRed_Quieto
 
 randomize()
 wait = 100

@@ -1,6 +1,3 @@
-/// @description Lógica para mover enemigo random
-event_inherited()
-
 var action = irandom(3)
 
 if (wait <= 0) {
@@ -28,5 +25,3 @@ if (wait <= 0) {
 } else {
     wait -= 1
 }
-
-

@@ -1,9 +1,9 @@
 {
   "FolderOrderSettings":[
     {"name":"Background","order":11,"path":"folders/Background.yy",},
-    {"name":"Buttons","order":8,"path":"folders/Objetos/Buttons.yy",},
     {"name":"Fonts","order":14,"path":"folders/Fonts.yy",},
     {"name":"Objetos","order":9,"path":"folders/Objetos.yy",},
+    {"name":"Buttons","order":8,"path":"folders/Objetos/Buttons.yy",},
     {"name":"Enemies","order":6,"path":"folders/Objetos/Enemies.yy",},
     {"name":"Salas","order":10,"path":"folders/Salas.yy",},
     {"name":"Scripts","order":5,"path":"folders/Scripts.yy",},
@@ -20,6 +20,7 @@
     {"name":"objPlataformaMovible","order":4,"path":"objects/objPlataformaMovible/objPlataformaMovible.yy",},
     {"name":"obPared","order":1,"path":"objects/obPared/obPared.yy",},
     {"name":"obPause","order":5,"path":"objects/obPause/obPause.yy",},
+    {"name":"obSlimeRed","order":2,"path":"objects/obSlimeRed/obSlimeRed.yy",},
     {"name":"MainMenuRoom","order":2,"path":"rooms/MainMenuRoom/MainMenuRoom.yy",},
     {"name":"Room2","order":1,"path":"rooms/Room2/Room2.yy",},
     {"name":"scrActualizarSprite","order":5,"path":"scripts/scrActualizarSprite/scrActualizarSprite.yy",},
@@ -32,6 +33,7 @@
     {"name":"Bloque","order":1,"path":"sprites/Bloque/Bloque.yy",},
     {"name":"Button","order":12,"path":"sprites/Button/Button.yy",},
     {"name":"Espada","order":7,"path":"sprites/Espada/Espada.yy",},
+    {"name":"Logo","order":13,"path":"sprites/Logo/Logo.yy",},
     {"name":"Mascara_Personaje","order":4,"path":"sprites/Mascara_Personaje/Mascara_Personaje.yy",},
     {"name":"Personaje_Atacar_Espada","order":9,"path":"sprites/Personaje_Atacar_Espada/Personaje_Atacar_Espada.yy",},
     {"name":"Personaje_Caminando_Espada","order":6,"path":"sprites/Personaje_Caminando_Espada/Personaje_Caminando_Espada.yy",},
@@ -40,6 +42,8 @@
     {"name":"Plataforma_Movible","order":8,"path":"sprites/Plataforma_Movible/Plataforma_Movible.yy",},
     {"name":"Slime_Caminando","order":11,"path":"sprites/Slime_Caminando/Slime_Caminando.yy",},
     {"name":"Slime_Quieto","order":10,"path":"sprites/Slime_Quieto/Slime_Quieto.yy",},
+    {"name":"SlimeRed_Caminando","order":15,"path":"sprites/SlimeRed_Caminando/SlimeRed_Caminando.yy",},
+    {"name":"SlimeRed_Quieto","order":14,"path":"sprites/SlimeRed_Quieto/SlimeRed_Quieto.yy",},
     {"name":"Sprite5","order":3,"path":"sprites/Sprite5/Sprite5.yy",},
   ],
 }

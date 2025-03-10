@@ -7,7 +7,9 @@
   ],
   "managed":true,
   "name":"obSlime",
-  "overriddenProperties":[],
+  "overriddenProperties":[
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obEnemigo","path":"objects/obEnemigo/obEnemigo.yy",},"propertyId":{"name":"health","path":"objects/obEnemigo/obEnemigo.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"10",},
+  ],
   "parent":{
     "name":"Enemies",
     "path":"folders/Objetos/Enemies.yy",
