@@ -1,12 +1,12 @@
 {
   "$GMObject":"",
-  "%Name":"obSlimeBlue",
+  "%Name":"obSlimeBlu",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obSlimeBlue",
+  "name":"obSlimeBlu",
   "overriddenProperties":[
     {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obEnemigo","path":"objects/obEnemigo/obEnemigo.yy",},"propertyId":{"name":"health","path":"objects/obEnemigo/obEnemigo.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"30",},
   ],
@@ -36,8 +36,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"SlimeBlue_Quieto",
-    "path":"sprites/SlimeBlue_Quieto/SlimeBlue_Quieto.yy",
+    "name":"SlimeBlu_Quieto",
+    "path":"sprites/SlimeBlu_Quieto/SlimeBlu_Quieto.yy",
   },
   "spriteMaskId":null,
   "visible":true,
