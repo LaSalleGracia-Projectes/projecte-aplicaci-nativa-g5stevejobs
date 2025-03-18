@@ -9,8 +9,9 @@
     {"name":"Scripts","order":5,"path":"folders/Scripts.yy",},
     {"name":"Sprites","order":1,"path":"folders/Sprites.yy",},
     {"name":"Enemigos","order":17,"path":"folders/Sprites/Enemigos.yy",},
-    {"name":"SlimeRed","order":5,"path":"folders/Sprites/Enemigos/SlimeRed.yy",},
+    {"name":"SlimeBlue","order":6,"path":"folders/Sprites/Enemigos/SlimeBlue.yy",},
     {"name":"Slime","order":4,"path":"folders/Sprites/Enemigos/Slime.yy",},
+    {"name":"SlimeRed","order":5,"path":"folders/Sprites/Enemigos/SlimeRed.yy",},
     {"name":"Personaje","order":16,"path":"folders/Sprites/Personaje.yy",},
   ],
   "ResourceOrderSettings":[
@@ -24,6 +25,7 @@
     {"name":"objPlataformaMovible","order":4,"path":"objects/objPlataformaMovible/objPlataformaMovible.yy",},
     {"name":"obPared","order":1,"path":"objects/obPared/obPared.yy",},
     {"name":"obPause","order":5,"path":"objects/obPause/obPause.yy",},
+    {"name":"obSlimeBlue","order":3,"path":"objects/obSlimeBlue/obSlimeBlue.yy",},
     {"name":"obSlimeRed","order":2,"path":"objects/obSlimeRed/obSlimeRed.yy",},
     {"name":"MainMenuRoom","order":2,"path":"rooms/MainMenuRoom/MainMenuRoom.yy",},
     {"name":"Room2","order":1,"path":"rooms/Room2/Room2.yy",},
@@ -45,7 +47,8 @@
     {"name":"Personaje_Quieto","order":4,"path":"sprites/Personaje_Quieto/Personaje_Quieto.yy",},
     {"name":"Plataforma_Movible","order":8,"path":"sprites/Plataforma_Movible/Plataforma_Movible.yy",},
     {"name":"Slime_Quieto","order":1,"path":"sprites/Slime_Quieto/Slime_Quieto.yy",},
-    {"name":"SlimeRed_Caminando","order":3,"path":"sprites/SlimeRed_Caminando/SlimeRed_Caminando.yy",},
+    {"name":"SlimeBlue_Caminando","order":1,"path":"sprites/SlimeBlue_Caminando/SlimeBlue_Caminando.yy",},
+    {"name":"SlimeRed_Quieto","order":1,"path":"sprites/SlimeRed_Quieto/SlimeRed_Quieto.yy",},
     {"name":"Sprite5","order":3,"path":"sprites/Sprite5/Sprite5.yy",},
   ],
 }
