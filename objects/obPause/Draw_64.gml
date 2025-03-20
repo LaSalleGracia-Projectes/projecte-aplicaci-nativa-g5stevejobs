@@ -24,7 +24,29 @@ if (paused) {
     draw_text(gui_width / 2, gui_height / 2, "ESC - Para reanudar");
     draw_text(gui_width / 2, gui_height / 2 + 40, "R - Para reiniciar sala");
     draw_text(gui_width / 2, gui_height / 2 + 80, "Q - Para cerrar el juego");
-    
+	draw_text(gui_width / 2, gui_height / 2 + 120, "S - Para guardar el juego");
+	draw_text(gui_width / 2, gui_height / 2 + 160, "C - Para cargar el juego");
+		
+	if (keyboard_check_pressed(ord("S"))) {
+	    scrGuardarJuego();
+	}
+
+// Cargar el juego
+if (keyboard_check_pressed(ord("C"))) {
+    // Buscar y destruir la instancia del jugador si existe
+    var jugador_instance = instance_find(obJugador, 0); // Encontrar la primera instancia de obJugador
+    if (jugador_instance != noone) {
+        instance_destroy(jugador_instance); // Destruir la instancia del jugador
+    }
+
+    // Llamar a la función para cargar el jugador
+    scrCargarJuego();
+
+    // Desactivar el modo pausa
+    paused = false;
+}
+
+	
     if (keyboard_check_pressed(ord("R"))) {
         room_restart();
         paused = false;

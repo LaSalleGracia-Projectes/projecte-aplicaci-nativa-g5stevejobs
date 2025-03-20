@@ -14,6 +14,6 @@ if (keyboard_check_pressed(ord("W"))) {
 	scrSaltar(ancho);
 }
 
-if (mouse_check_button(mb_left)) {
+if (mouse_check_button_pressed(mb_left)) {
 	scrAtacar();	
 }
