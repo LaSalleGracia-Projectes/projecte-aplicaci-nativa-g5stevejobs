@@ -28,22 +28,18 @@ if (paused) {
 	draw_text(gui_width / 2, gui_height / 2 + 160, "C - Para cargar el juego");
 		
 	if (keyboard_check_pressed(ord("S"))) {
+		paused = false;
 	    scrGuardarJuego();
 	}
 
 // Cargar el juego
 if (keyboard_check_pressed(ord("C"))) {
-    // Buscar y destruir la instancia del jugador si existe
-    var jugador_instance = instance_find(obJugador, 0); // Encontrar la primera instancia de obJugador
-    if (jugador_instance != noone) {
-        instance_destroy(jugador_instance); // Destruir la instancia del jugador
-    }
+    paused = false;
 
-    // Llamar a la función para cargar el jugador
+	instance_destroy(obJugador);
     scrCargarJuego();
 
-    // Desactivar el modo pausa
-    paused = false;
+
 }
 
 	
