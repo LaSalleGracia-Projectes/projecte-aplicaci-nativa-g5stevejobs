@@ -52,6 +52,7 @@
     {"id":{"name":"obSlimeDip","path":"objects/obSlimeDip/obSlimeDip.yy",},},
     {"id":{"name":"obSlimeRed","path":"objects/obSlimeRed/obSlimeRed.yy",},},
     {"id":{"name":"MainMenuRoom","path":"rooms/MainMenuRoom/MainMenuRoom.yy",},},
+    {"id":{"name":"PuzzleRoom","path":"rooms/PuzzleRoom/PuzzleRoom.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
     {"id":{"name":"scrActualizarSprite","path":"scripts/scrActualizarSprite/scrActualizarSprite.yy",},},
@@ -90,6 +91,7 @@
     {"roomId":{"name":"MainMenuRoom","path":"rooms/MainMenuRoom/MainMenuRoom.yy",},},
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"roomId":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
+    {"roomId":{"name":"PuzzleRoom","path":"rooms/PuzzleRoom/PuzzleRoom.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
