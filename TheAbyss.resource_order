@@ -2,8 +2,9 @@
   "FolderOrderSettings":[
     {"name":"Background","order":11,"path":"folders/Background.yy",},
     {"name":"Fonts","order":14,"path":"folders/Fonts.yy",},
+    {"name":"Items","order":9,"path":"folders/Objetos/Items.yy",},
     {"name":"Objetos","order":9,"path":"folders/Objetos.yy",},
-    {"name":"Buttons","order":8,"path":"folders/Objetos/Buttons.yy",},
+    {"name":"Buttons","order":7,"path":"folders/Objetos/Buttons.yy",},
     {"name":"Enemies","order":6,"path":"folders/Objetos/Enemies.yy",},
     {"name":"Salas","order":10,"path":"folders/Salas.yy",},
     {"name":"Scripts","order":5,"path":"folders/Scripts.yy",},
@@ -26,6 +27,7 @@
     {"name":"objPlataformaMovible","order":4,"path":"objects/objPlataformaMovible/objPlataformaMovible.yy",},
     {"name":"obPared","order":1,"path":"objects/obPared/obPared.yy",},
     {"name":"obPause","order":5,"path":"objects/obPause/obPause.yy",},
+    {"name":"obPuzzle","order":8,"path":"objects/obPuzzle/obPuzzle.yy",},
     {"name":"obSlimeBlu","order":3,"path":"objects/obSlimeBlu/obSlimeBlu.yy",},
     {"name":"obSlimeDip","order":4,"path":"objects/obSlimeDip/obSlimeDip.yy",},
     {"name":"obSlimeRed","order":2,"path":"objects/obSlimeRed/obSlimeRed.yy",},
