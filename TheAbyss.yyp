@@ -53,6 +53,7 @@
     {"id":{"name":"obSlimeBlu","path":"objects/obSlimeBlu/obSlimeBlu.yy",},},
     {"id":{"name":"obSlimeDip","path":"objects/obSlimeDip/obSlimeDip.yy",},},
     {"id":{"name":"obSlimeRed","path":"objects/obSlimeRed/obSlimeRed.yy",},},
+    {"id":{"name":"InventoryTest","path":"rooms/InventoryTest/InventoryTest.yy",},},
     {"id":{"name":"MainMenuRoom","path":"rooms/MainMenuRoom/MainMenuRoom.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
@@ -91,6 +92,7 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
+    {"roomId":{"name":"InventoryTest","path":"rooms/InventoryTest/InventoryTest.yy",},},
     {"roomId":{"name":"MainMenuRoom","path":"rooms/MainMenuRoom/MainMenuRoom.yy",},},
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"roomId":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
