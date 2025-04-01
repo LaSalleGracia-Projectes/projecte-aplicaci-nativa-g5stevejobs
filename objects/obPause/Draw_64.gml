@@ -40,7 +40,6 @@ if (keyboard_check_pressed(ord("C"))) {
 	paused = false;
 
 }
-
 	
     if (keyboard_check_pressed(ord("R"))) {
         room_restart();
