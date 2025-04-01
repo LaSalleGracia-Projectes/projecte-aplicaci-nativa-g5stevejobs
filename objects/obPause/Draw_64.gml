@@ -28,17 +28,16 @@ if (paused) {
 	draw_text(gui_width / 2, gui_height / 2 + 160, "C - Para cargar el juego");
 		
 	if (keyboard_check_pressed(ord("S"))) {
-		paused = false;
+		instance_activate_all();
 	    scrGuardarJuego();
+		instance_deactivate_all(true);
 	}
 
 // Cargar el juego
 if (keyboard_check_pressed(ord("C"))) {
-    paused = false;
-
-	instance_destroy(obJugador);
+	instance_activate_all();
     scrCargarJuego();
-
+	paused = false;
 
 }
 

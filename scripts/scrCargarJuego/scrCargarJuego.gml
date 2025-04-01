@@ -1,9 +1,8 @@
 function scrCargarJuego() {		
-    var archivo = file_text_open_read("datosGuardados.json");
-    var jsonString = file_text_read_string(archivo);
-    var dato = json_parse(jsonString);
-    file_text_close(archivo);
-    
-    var jugador = instance_create_layer(dato.jugador.x, dato.jugador.y, "Instances", obJugador);
-
+	if (file_exists("save.sav")) { 
+	    ini_open("save.sav"); 
+	    obJugador.x = ini_read_real("Jugador", "x_actual", 0); // Se añade un valor por defecto (0)
+	    obJugador.y = ini_read_real("Jugador", "y_actual", 0);
+	    ini_close();
+	}
 }
