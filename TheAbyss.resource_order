@@ -18,6 +18,7 @@
   "ResourceOrderSettings":[
     {"name":"MenuFont","order":1,"path":"fonts/MenuFont/MenuFont.yy",},
     {"name":"MenuTitleFont","order":2,"path":"fonts/MenuTitleFont/MenuTitleFont.yy",},
+    {"name":"BotonMadera","order":3,"path":"objects/BotonMadera/BotonMadera.yy",},
     {"name":"obButtonExit","order":2,"path":"objects/obButtonExit/obButtonExit.yy",},
     {"name":"obButtonPlay","order":1,"path":"objects/obButtonPlay/obButtonPlay.yy",},
     {"name":"obEnemigo","order":1,"path":"objects/obEnemigo/obEnemigo.yy",},
@@ -30,6 +31,7 @@
     {"name":"obSlimeDip","order":4,"path":"objects/obSlimeDip/obSlimeDip.yy",},
     {"name":"obSlimeRed","order":2,"path":"objects/obSlimeRed/obSlimeRed.yy",},
     {"name":"MainMenuRoom","order":2,"path":"rooms/MainMenuRoom/MainMenuRoom.yy",},
+    {"name":"Pause","order":3,"path":"rooms/Pause/Pause.yy",},
     {"name":"Room2","order":1,"path":"rooms/Room2/Room2.yy",},
     {"name":"scrActualizarSprite","order":5,"path":"scripts/scrActualizarSprite/scrActualizarSprite.yy",},
     {"name":"scrAtacar","order":7,"path":"scripts/scrAtacar/scrAtacar.yy",},
@@ -41,6 +43,7 @@
     {"name":"scrGuardarJuego","order":8,"path":"scripts/scrGuardarJuego/scrGuardarJuego.yy",},
     {"name":"scrSaltar","order":1,"path":"scripts/scrSaltar/scrSaltar.yy",},
     {"name":"Bloque","order":1,"path":"sprites/Bloque/Bloque.yy",},
+    {"name":"Boton","order":18,"path":"sprites/Boton/Boton.yy",},
     {"name":"Button","order":12,"path":"sprites/Button/Button.yy",},
     {"name":"Espada","order":7,"path":"sprites/Espada/Espada.yy",},
     {"name":"Logo","order":13,"path":"sprites/Logo/Logo.yy",},
