@@ -1,7 +1,6 @@
 {
   "FolderOrderSettings":[
     {"name":"Background","order":11,"path":"folders/Background.yy",},
-    {"name":"Puzzle","order":8,"path":"folders/Sprites/Puzzle.yy",},
     {"name":"Fonts","order":14,"path":"folders/Fonts.yy",},
     {"name":"Objetos","order":9,"path":"folders/Objetos.yy",},
     {"name":"Buttons","order":7,"path":"folders/Objetos/Buttons.yy",},
@@ -16,6 +15,7 @@
     {"name":"SlimeDip","order":7,"path":"folders/Sprites/Enemigos/SlimeDip.yy",},
     {"name":"SlimeRed","order":5,"path":"folders/Sprites/Enemigos/SlimeRed.yy",},
     {"name":"Personaje","order":6,"path":"folders/Sprites/Personaje.yy",},
+    {"name":"Puzzle","order":8,"path":"folders/Sprites/Puzzle.yy",},
   ],
   "ResourceOrderSettings":[
     {"name":"MenuFont","order":1,"path":"fonts/MenuFont/MenuFont.yy",},
@@ -32,7 +32,7 @@
     {"name":"obSlimeDip","order":4,"path":"objects/obSlimeDip/obSlimeDip.yy",},
     {"name":"obSlimeRed","order":2,"path":"objects/obSlimeRed/obSlimeRed.yy",},
     {"name":"MainMenuRoom","order":2,"path":"rooms/MainMenuRoom/MainMenuRoom.yy",},
-    {"name":"PuzzleRoom","order":3,"path":"rooms/PuzzleRoom/PuzzleRoom.yy",},
+    {"name":"PuzzleTestRoom","order":3,"path":"rooms/PuzzleTestRoom/PuzzleTestRoom.yy",},
     {"name":"Room2","order":1,"path":"rooms/Room2/Room2.yy",},
     {"name":"scrActualizarSprite","order":5,"path":"scripts/scrActualizarSprite/scrActualizarSprite.yy",},
     {"name":"scrAtacar","order":7,"path":"scripts/scrAtacar/scrAtacar.yy",},
@@ -50,7 +50,7 @@
     {"name":"Personaje_Quieto_Espada","order":5,"path":"sprites/Personaje_Quieto_Espada/Personaje_Quieto_Espada.yy",},
     {"name":"Personaje_Quieto","order":4,"path":"sprites/Personaje_Quieto/Personaje_Quieto.yy",},
     {"name":"Plataforma_Movible","order":3,"path":"sprites/Plataforma_Movible/Plataforma_Movible.yy",},
-    {"name":"PuzzleSprite2","order":1,"path":"sprites/PuzzleSprite2/PuzzleSprite2.yy",},
+    {"name":"PuzzleElement","order":1,"path":"sprites/PuzzleElement/PuzzleElement.yy",},
     {"name":"Slime_Quieto","order":1,"path":"sprites/Slime_Quieto/Slime_Quieto.yy",},
     {"name":"SlimeBlu_Caminando","order":1,"path":"sprites/SlimeBlu_Caminando/SlimeBlu_Caminando.yy",},
     {"name":"SlimeDip_Quieto","order":1,"path":"sprites/SlimeDip_Quieto/SlimeDip_Quieto.yy",},
