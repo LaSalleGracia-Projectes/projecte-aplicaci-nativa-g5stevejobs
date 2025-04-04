@@ -18,18 +18,18 @@ for (var i = 0; i < INVENTORY_SLOTS; i += 1)
     draw_sprite_ext(Slot_Inventario, 0, xx, yy, inv_scale, inv_scale, 0, c_white, 1);
     
     if (inventory[i] != -1) {
-        var slime_scale = 2 * inv_scale;
+        var sprite_scale = 2 * inv_scale;
         
         var slot_center_x = xx + (32*inv_scale)/2;
         var slot_center_y = yy + (40*inv_scale)/2;
         
         draw_sprite_ext(
-            SlimeRed_Quieto, 
+            SlimeRed_Quieto, // Aqui se tendria q referenciar al item especifico
             inventory[i], 
             slot_center_x, 
             slot_center_y, 
-            slime_scale, 
-            slime_scale, 
+            sprite_scale, 
+            sprite_scale, 
             0, 
             c_white, 
             1
