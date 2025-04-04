@@ -18,6 +18,7 @@
     {"name":"Personaje","order":16,"path":"folders/Sprites/Personaje.yy",},
   ],
   "ResourceOrderSettings":[
+    {"name":"InventorySlotFont","order":3,"path":"fonts/InventorySlotFont/InventorySlotFont.yy",},
     {"name":"MenuFont","order":1,"path":"fonts/MenuFont/MenuFont.yy",},
     {"name":"MenuTitleFont","order":2,"path":"fonts/MenuTitleFont/MenuTitleFont.yy",},
     {"name":"obButtonExit","order":2,"path":"objects/obButtonExit/obButtonExit.yy",},

@@ -35,6 +35,7 @@
   },
   "name":"TheAbyss",
   "resources":[
+    {"id":{"name":"InventorySlotFont","path":"fonts/InventorySlotFont/InventorySlotFont.yy",},},
     {"id":{"name":"MenuFont","path":"fonts/MenuFont/MenuFont.yy",},},
     {"id":{"name":"MenuTitleFont","path":"fonts/MenuTitleFont/MenuTitleFont.yy",},},
     {"id":{"name":"obButton","path":"objects/obButton/obButton.yy",},},
