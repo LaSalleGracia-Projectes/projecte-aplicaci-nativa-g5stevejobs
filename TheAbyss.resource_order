@@ -30,6 +30,7 @@
     {"name":"obSlimeBlu","order":3,"path":"objects/obSlimeBlu/obSlimeBlu.yy",},
     {"name":"obSlimeDip","order":4,"path":"objects/obSlimeDip/obSlimeDip.yy",},
     {"name":"obSlimeRed","order":2,"path":"objects/obSlimeRed/obSlimeRed.yy",},
+    {"name":"VolverPausa","order":9,"path":"objects/VolverPausa/VolverPausa.yy",},
     {"name":"MainMenuRoom","order":2,"path":"rooms/MainMenuRoom/MainMenuRoom.yy",},
     {"name":"Pause","order":3,"path":"rooms/Pause/Pause.yy",},
     {"name":"Room2","order":1,"path":"rooms/Room2/Room2.yy",},

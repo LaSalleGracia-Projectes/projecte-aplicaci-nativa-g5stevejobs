@@ -1,4 +1,4 @@
-paused = false;
+global.pausaGlobal = false;
 pauseSurface = -1;
 
 cam_x = 0;
