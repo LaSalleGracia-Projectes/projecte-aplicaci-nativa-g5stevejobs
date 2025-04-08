@@ -33,7 +33,6 @@
     {"name":"obSlimeBlu","order":3,"path":"objects/obSlimeBlu/obSlimeBlu.yy",},
     {"name":"obSlimeDip","order":4,"path":"objects/obSlimeDip/obSlimeDip.yy",},
     {"name":"obSlimeRed","order":2,"path":"objects/obSlimeRed/obSlimeRed.yy",},
-    {"name":"InventoryTest","order":3,"path":"rooms/InventoryTest/InventoryTest.yy",},
     {"name":"MainMenuRoom","order":2,"path":"rooms/MainMenuRoom/MainMenuRoom.yy",},
     {"name":"Room2","order":1,"path":"rooms/Room2/Room2.yy",},
     {"name":"scrActualizarSprite","order":5,"path":"scripts/scrActualizarSprite/scrActualizarSprite.yy",},
