@@ -34,6 +34,7 @@
     {"name":"MainMenuRoom","order":2,"path":"rooms/MainMenuRoom/MainMenuRoom.yy",},
     {"name":"PuzzleTestRoom","order":3,"path":"rooms/PuzzleTestRoom/PuzzleTestRoom.yy",},
     {"name":"Room2","order":1,"path":"rooms/Room2/Room2.yy",},
+    {"name":"draw_nineslice_stretched_ext","order":8,"path":"scripts/draw_nineslice_stretched_ext/draw_nineslice_stretched_ext.yy",},
     {"name":"scrActualizarSprite","order":5,"path":"scripts/scrActualizarSprite/scrActualizarSprite.yy",},
     {"name":"scrAtacar","order":7,"path":"scripts/scrAtacar/scrAtacar.yy",},
     {"name":"scrComprovarColisionPlataforma","order":6,"path":"scripts/scrComprovarColisionPlataforma/scrComprovarColisionPlataforma.yy",},

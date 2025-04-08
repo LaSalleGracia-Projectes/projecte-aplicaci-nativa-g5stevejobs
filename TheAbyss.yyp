@@ -56,6 +56,7 @@
     {"id":{"name":"PuzzleTestRoom","path":"rooms/PuzzleTestRoom/PuzzleTestRoom.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
+    {"id":{"name":"draw_nineslice_stretched_ext","path":"scripts/draw_nineslice_stretched_ext/draw_nineslice_stretched_ext.yy",},},
     {"id":{"name":"scrActualizarSprite","path":"scripts/scrActualizarSprite/scrActualizarSprite.yy",},},
     {"id":{"name":"scrAtacar","path":"scripts/scrAtacar/scrAtacar.yy",},},
     {"id":{"name":"scrCaminar","path":"scripts/scrCaminar/scrCaminar.yy",},},
