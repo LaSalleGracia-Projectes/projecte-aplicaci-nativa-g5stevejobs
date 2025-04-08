@@ -24,15 +24,15 @@
   "name":"PuzzleBorderSprite",
   "nineSlice":{
     "$GMNineSliceData":"",
-    "bottom":1,
+    "bottom":7,
     "enabled":true,
     "guideColour":[4294902015,4294902015,4294902015,4294902015,],
     "highlightColour":1728023040,
     "highlightStyle":0,
-    "left":1,
+    "left":7,
     "resourceType":"GMNineSliceData",
     "resourceVersion":"2.0",
-    "right":1,
+    "right":7,
     "tileMode":[
       0,
       0,
@@ -40,7 +40,7 @@
       0,
       0,
     ],
-    "top":1,
+    "top":7,
   },
   "origin":0,
   "parent":{

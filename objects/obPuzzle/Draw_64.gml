@@ -3,6 +3,6 @@ draw_sprite_stretched(
 	0,
 	x-1,
 	x-1,
-	200,
+	400,
 	200
 )
