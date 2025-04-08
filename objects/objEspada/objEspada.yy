@@ -6,8 +6,8 @@
   "name":"objEspada",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objetos",
-    "path":"folders/Objetos.yy",
+    "name":"Items",
+    "path":"folders/Objetos/Items.yy",
   },
   "parentObjectId":{
     "name":"objItem",
