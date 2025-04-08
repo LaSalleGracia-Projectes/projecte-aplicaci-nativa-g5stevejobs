@@ -50,7 +50,7 @@
     {"name":"Personaje_Quieto_Espada","order":5,"path":"sprites/Personaje_Quieto_Espada/Personaje_Quieto_Espada.yy",},
     {"name":"Personaje_Quieto","order":4,"path":"sprites/Personaje_Quieto/Personaje_Quieto.yy",},
     {"name":"Plataforma_Movible","order":3,"path":"sprites/Plataforma_Movible/Plataforma_Movible.yy",},
-    {"name":"PuzzleElement","order":1,"path":"sprites/PuzzleElement/PuzzleElement.yy",},
+    {"name":"PuzzleElementSprite","order":1,"path":"sprites/PuzzleElementSprite/PuzzleElementSprite.yy",},
     {"name":"Slime_Quieto","order":1,"path":"sprites/Slime_Quieto/Slime_Quieto.yy",},
     {"name":"SlimeBlu_Caminando","order":1,"path":"sprites/SlimeBlu_Caminando/SlimeBlu_Caminando.yy",},
     {"name":"SlimeDip_Quieto","order":1,"path":"sprites/SlimeDip_Quieto/SlimeDip_Quieto.yy",},

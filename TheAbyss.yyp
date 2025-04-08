@@ -76,7 +76,7 @@
     {"id":{"name":"Personaje_Quieto","path":"sprites/Personaje_Quieto/Personaje_Quieto.yy",},},
     {"id":{"name":"Plataforma_Movible","path":"sprites/Plataforma_Movible/Plataforma_Movible.yy",},},
     {"id":{"name":"PuzzleBorderSprite","path":"sprites/PuzzleBorderSprite/PuzzleBorderSprite.yy",},},
-    {"id":{"name":"PuzzleElement","path":"sprites/PuzzleElement/PuzzleElement.yy",},},
+    {"id":{"name":"PuzzleElementSprite","path":"sprites/PuzzleElementSprite/PuzzleElementSprite.yy",},},
     {"id":{"name":"Slime_Caminando","path":"sprites/Slime_Caminando/Slime_Caminando.yy",},},
     {"id":{"name":"Slime_Quieto","path":"sprites/Slime_Quieto/Slime_Quieto.yy",},},
     {"id":{"name":"SlimeBlu_Caminando","path":"sprites/SlimeBlu_Caminando/SlimeBlu_Caminando.yy",},},
