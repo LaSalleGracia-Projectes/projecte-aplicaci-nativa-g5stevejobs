@@ -27,7 +27,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"PuzzleElementSprite",
+    "path":"sprites/PuzzleElementSprite/PuzzleElementSprite.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }
