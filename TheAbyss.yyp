@@ -65,6 +65,7 @@
     {"id":{"name":"scrComprovarColisionSobre","path":"scripts/scrComprovarColisionSobre/scrComprovarColisionSobre.yy",},},
     {"id":{"name":"scrComprovarColoisionSuelo","path":"scripts/scrComprovarColoisionSuelo/scrComprovarColoisionSuelo.yy",},},
     {"id":{"name":"scrComprovarGravedad","path":"scripts/scrComprovarGravedad/scrComprovarGravedad.yy",},},
+    {"id":{"name":"scrInicializarPuzzle","path":"scripts/scrInicializarPuzzle/scrInicializarPuzzle.yy",},},
     {"id":{"name":"scrSaltar","path":"scripts/scrSaltar/scrSaltar.yy",},},
     {"id":{"name":"Bloque","path":"sprites/Bloque/Bloque.yy",},},
     {"id":{"name":"Button","path":"sprites/Button/Button.yy",},},

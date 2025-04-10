@@ -2,7 +2,7 @@
   "$GMSprite":"",
   "%Name":"PuzzleHolderSprite",
   "bboxMode":0,
-  "bbox_bottom":11,
+  "bbox_bottom":14,
   "bbox_left":0,
   "bbox_right":5,
   "bbox_top":0,
@@ -16,7 +16,7 @@
   ],
   "gridX":0,
   "gridY":0,
-  "height":12,
+  "height":15,
   "HTile":false,
   "layers":[
     {"$GMImageLayer":"","%Name":"90d829dd-76df-46ed-8f4f-9c25be9f2de8","blendMode":0,"displayName":"default","isLocked":false,"name":"90d829dd-76df-46ed-8f4f-9c25be9f2de8","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},

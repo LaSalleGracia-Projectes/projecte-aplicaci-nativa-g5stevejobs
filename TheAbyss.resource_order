@@ -41,6 +41,7 @@
     {"name":"scrComprovarColisionSobre","order":4,"path":"scripts/scrComprovarColisionSobre/scrComprovarColisionSobre.yy",},
     {"name":"scrComprovarColoisionSuelo","order":3,"path":"scripts/scrComprovarColoisionSuelo/scrComprovarColoisionSuelo.yy",},
     {"name":"scrComprovarGravedad","order":2,"path":"scripts/scrComprovarGravedad/scrComprovarGravedad.yy",},
+    {"name":"scrInicializarPuzzle","order":9,"path":"scripts/scrInicializarPuzzle/scrInicializarPuzzle.yy",},
     {"name":"scrSaltar","order":1,"path":"scripts/scrSaltar/scrSaltar.yy",},
     {"name":"Button","order":4,"path":"sprites/Button/Button.yy",},
     {"name":"Espada","order":2,"path":"sprites/Espada/Espada.yy",},
