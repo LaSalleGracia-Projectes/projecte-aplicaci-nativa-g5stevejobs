@@ -1,2 +1,2 @@
-/// @description Inserte aquí la descripción
-// Puede escribir su código en este editor
+puzzleWidth = 700
+puzzleHeight = 500

@@ -9,8 +9,8 @@
   "name":"obPuzzle",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objetos",
-    "path":"folders/Objetos.yy",
+    "name":"Puzzle",
+    "path":"folders/Objetos/Puzzle.yy",
   },
   "parentObjectId":null,
   "persistent":false,
