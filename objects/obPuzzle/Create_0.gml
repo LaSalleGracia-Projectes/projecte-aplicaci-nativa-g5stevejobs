@@ -8,5 +8,3 @@ slots = [
 
 puzzleWidth = 700;
 puzzleHeight = 500;
-
-scrInicializarPuzzle(slots); 
