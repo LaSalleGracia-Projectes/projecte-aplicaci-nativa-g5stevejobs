@@ -7,8 +7,8 @@ function scrInicializarPuzzle(slots) {
 				draw_sprite_ext(
 					PuzzleHolderSprite,
 				    0,
-				    puzzleWidth/2,
-				    puzzleHeight/2,
+				    puzzleWidth * 1.25  - 100*(i+1),
+				    (puzzleHeight + 80) - 75*(j+1),
 				    5,
 				    5,
 				    0,
@@ -21,8 +21,8 @@ function scrInicializarPuzzle(slots) {
 				draw_sprite_ext(    
 				    PuzzleElementSprite,
 				    0,
-				    300,
-				    350,
+				    puzzleWidth * 1.25  - 100*(i+1),
+				    (puzzleHeight + 80) - 75*(j+1),
 				    5,
 				    5,
 				    0,
