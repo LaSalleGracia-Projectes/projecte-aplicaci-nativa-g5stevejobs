@@ -49,6 +49,7 @@
     {"id":{"name":"obPared","path":"objects/obPared/obPared.yy",},},
     {"id":{"name":"obPause","path":"objects/obPause/obPause.yy",},},
     {"id":{"name":"obPuzzle","path":"objects/obPuzzle/obPuzzle.yy",},},
+    {"id":{"name":"obPuzzleElement","path":"objects/obPuzzleElement/obPuzzleElement.yy",},},
     {"id":{"name":"obSlime","path":"objects/obSlime/obSlime.yy",},},
     {"id":{"name":"obSlimeBlu","path":"objects/obSlimeBlu/obSlimeBlu.yy",},},
     {"id":{"name":"obSlimeDip","path":"objects/obSlimeDip/obSlimeDip.yy",},},
@@ -92,8 +93,8 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"roomId":{"name":"PuzzleTestRoom","path":"rooms/PuzzleTestRoom/PuzzleTestRoom.yy",},},
+    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"roomId":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
   ],
   "templateType":"game",
