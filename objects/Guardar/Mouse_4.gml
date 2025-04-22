@@ -1,9 +1,6 @@
-/// @description Inserte aquí la descripción
-// Puede escribir su código en este editor
-
-// Inherit the parent event
-event_inherited();
-
+instance_activate_all();
 scrGuardarJuego();
 
+obj_pause_manager.paused = false;
+obj_pause_manager.update_pause();
 
