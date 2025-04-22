@@ -46,6 +46,7 @@
     {"name":"Button","order":12,"path":"sprites/Button/Button.yy",},
     {"name":"Espada","order":7,"path":"sprites/Espada/Espada.yy",},
     {"name":"Logo","order":13,"path":"sprites/Logo/Logo.yy",},
+    {"name":"MenuBackground","order":1,"path":"sprites/MenuBackground/MenuBackground.yy",},
     {"name":"Personaje_Atacar_Espada","order":1,"path":"sprites/Personaje_Atacar_Espada/Personaje_Atacar_Espada.yy",},
     {"name":"Personaje_Caminando_Espada","order":3,"path":"sprites/Personaje_Caminando_Espada/Personaje_Caminando_Espada.yy",},
     {"name":"Personaje_Caminando","order":2,"path":"sprites/Personaje_Caminando/Personaje_Caminando.yy",},
