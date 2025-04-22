@@ -1,14 +1,14 @@
 {
   "FolderOrderSettings":[
-    {"name":"Background","order":11,"path":"folders/Background.yy",},
-    {"name":"Fonts","order":14,"path":"folders/Fonts.yy",},
-    {"name":"Objetos","order":9,"path":"folders/Objetos.yy",},
+    {"name":"Background","order":4,"path":"folders/Background.yy",},
+    {"name":"Fonts","order":5,"path":"folders/Fonts.yy",},
+    {"name":"TileSets","order":6,"path":"folders/TileSets.yy",},
+    {"name":"Objetos","order":2,"path":"folders/Objetos.yy",},
     {"name":"Buttons","order":7,"path":"folders/Objetos/Buttons.yy",},
     {"name":"Enemies","order":6,"path":"folders/Objetos/Enemies.yy",},
     {"name":"Items","order":9,"path":"folders/Objetos/Items.yy",},
-    {"name":"Salas","order":10,"path":"folders/Salas.yy",},
-    {"name":"Scripts","order":5,"path":"folders/Scripts.yy",},
-    {"name":"Sprites","order":1,"path":"folders/Sprites.yy",},
+    {"name":"Salas","order":3,"path":"folders/Salas.yy",},
+    {"name":"Scripts","order":1,"path":"folders/Scripts.yy",},
     {"name":"Enemigos","order":17,"path":"folders/Sprites/Enemigos.yy",},
     {"name":"Slime","order":4,"path":"folders/Sprites/Enemigos/Slime.yy",},
     {"name":"SlimeBlu","order":6,"path":"folders/Sprites/Enemigos/SlimeBlu.yy",},
@@ -61,5 +61,6 @@
     {"name":"SlimeRed_Quieto","order":1,"path":"sprites/SlimeRed_Quieto/SlimeRed_Quieto.yy",},
     {"name":"Slot_Inventario","order":1,"path":"sprites/Slot_Inventario/Slot_Inventario.yy",},
     {"name":"Sprite5","order":3,"path":"sprites/Sprite5/Sprite5.yy",},
+    {"name":"Terrain1","order":1,"path":"sprites/Terrain1/Terrain1.yy",},
   ],
 }
