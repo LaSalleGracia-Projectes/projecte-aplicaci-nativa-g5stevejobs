@@ -5,4 +5,5 @@ function scrGuardarJuego() {
 	ini_write_real("Jugador", "x_actual", obJugador.x);
 	ini_write_real("Jugador", "y_actual", obJugador.y);
 	ini_close();
+
 }
