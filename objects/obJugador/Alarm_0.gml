@@ -1,7 +1,9 @@
-obJugador.image_blend = c_white
-vidaTotal -= obMuerte.damage
+image_blend = c_white;
 
-if (vidaTotal <= 0){
-	scrMatarJugador()
+if (place_meeting(x, y, objMuerte)) {
+	vidaTotal -= objMuerte.damage;
+
+    if (vidaTotal <= 0) {
+        scrMatarJugador();
+    }
 }
-	
