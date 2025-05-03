@@ -39,6 +39,9 @@
     "name":"Slime_Quieto",
     "path":"sprites/Slime_Quieto/Slime_Quieto.yy",
   },
-  "spriteMaskId":null,
+  "spriteMaskId":{
+    "name":"Slime_Quieto",
+    "path":"sprites/Slime_Quieto/Slime_Quieto.yy",
+  },
   "visible":true,
 }

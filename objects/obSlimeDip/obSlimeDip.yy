@@ -39,6 +39,9 @@
     "name":"SlimeDip_Quieto",
     "path":"sprites/SlimeDip_Quieto/SlimeDip_Quieto.yy",
   },
-  "spriteMaskId":null,
+  "spriteMaskId":{
+    "name":"SlimeDip_Caminando",
+    "path":"sprites/SlimeDip_Caminando/SlimeDip_Caminando.yy",
+  },
   "visible":true,
 }
