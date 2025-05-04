@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "langNameGameNative": "Spanish",
+        "langNameLocal": "Español"
+    },
+    "menu": {
+        "start": "Iniciar",
+        "exit": "Salir"
+    }
+}

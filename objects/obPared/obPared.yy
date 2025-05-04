@@ -8,8 +8,8 @@
   "name":"obPared",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objetos",
-    "path":"folders/Objetos.yy",
+    "name":"Plataformer",
+    "path":"folders/Objetos/Plataformer.yy",
   },
   "parentObjectId":null,
   "persistent":false,
