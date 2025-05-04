@@ -6,6 +6,9 @@
     "basic": {
         "start": "Start",
         "leave": "Exit",
+        "load": "Load",
+        "save": "Save",
+        "resume": "Resume",
         "any": "Press any key to continue"
     },
     "instruccions": {

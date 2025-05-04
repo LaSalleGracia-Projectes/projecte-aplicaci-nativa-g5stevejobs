@@ -3,6 +3,3 @@
 
 // Inherit the parent event
 event_inherited();
-
-draw_set_font(MenuTitleFont);
-button_text = localize.basic.start
