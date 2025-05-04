@@ -41,6 +41,9 @@
     "name":"SlimeBlu_Quieto",
     "path":"sprites/SlimeBlu_Quieto/SlimeBlu_Quieto.yy",
   },
-  "spriteMaskId":null,
+  "spriteMaskId":{
+    "name":"SlimeBlu_Quieto",
+    "path":"sprites/SlimeBlu_Quieto/SlimeBlu_Quieto.yy",
+  },
   "visible":true,
 }

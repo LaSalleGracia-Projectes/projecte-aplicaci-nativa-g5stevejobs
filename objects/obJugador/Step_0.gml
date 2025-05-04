@@ -29,8 +29,6 @@ if (mouse_check_button_pressed(mb_left)) {
     _inst.damage *= danoJugador;
 }
 
-
-
-
-
-
+if (alarm[2] <= 0){
+	alarm[2] = 180
+}

@@ -1,0 +1,19 @@
+{
+    "langs": [
+        {
+            "langNameGameNative": "Spanish",
+            "langNameLocal": "Español",
+            "stringsFile": "stringsES.json"
+        },
+        {
+            "langNameGameNative": "English",
+            "langNameLocal": "English",
+            "stringsFile": "stringsEN.json"
+        },
+        {
+            "langNameGameNative": "French",
+            "langNameLocal": "Français",
+            "stringsFile": "stringsFR.json"
+        }
+    ]
+}

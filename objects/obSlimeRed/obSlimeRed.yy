@@ -41,6 +41,9 @@
     "name":"SlimeRed_Quieto",
     "path":"sprites/SlimeRed_Quieto/SlimeRed_Quieto.yy",
   },
-  "spriteMaskId":null,
+  "spriteMaskId":{
+    "name":"SlimeRed_Quieto",
+    "path":"sprites/SlimeRed_Quieto/SlimeRed_Quieto.yy",
+  },
   "visible":true,
 }
