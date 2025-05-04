@@ -1,9 +1,9 @@
 {
   "$GMScript":"v1",
-  "%Name":"scrInicializarPuzzle",
+  "%Name":"scrPuzzles",
   "isCompatibility":false,
   "isDnD":false,
-  "name":"scrInicializarPuzzle",
+  "name":"scrPuzzles",
   "parent":{
     "name":"Scripts",
     "path":"folders/Scripts.yy",
