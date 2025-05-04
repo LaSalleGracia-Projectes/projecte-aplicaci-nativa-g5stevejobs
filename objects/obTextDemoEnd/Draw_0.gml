@@ -4,6 +4,4 @@
 // Inherit the parent event
 event_inherited();
 
-button_text = localize.basic.leave
-
-
+text = localize.demo_end.text

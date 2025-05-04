@@ -49,6 +49,10 @@ function set_language(langId) {
             for (var _k = array_length(_sectionDataArr)-1; _k >= 0; --_k) {
                 var _locReference = _sectionDataArr[_k];
                 var _locText = _replacementStrings[$ _sectionName][$ _locReference];
+				if (!variable_struct_exists(obLocalization.localizedStrings, _sectionName)) {
+				    show_debug_message("Missing section: " + string(_sectionName));
+				    obLocalization.localizedStrings[$ _sectionName] = {};
+				}
                 obLocalization.localizedStrings[$ _sectionName][$ _locReference] = _locText;
             }
         }

@@ -3,8 +3,19 @@
         "langNameGameNative": "French",
         "langNameLocal": "Français"
     },
-    "menu": {
+    "basic": {
         "start": "Commencer",
-        "exit": "Sortie"
+        "leave": "Sortie",
+        "any": "Appuie sur une touche pour continuer"
+    },
+    "instruccions": {
+        "text": "WASD -> Pour se deplacer\nLMB -> Pour attaquer\nE -> Pour equiper un objet"
+    },
+    "story": {
+        "text1": "Apres un temps immemorable tu te reveilles,\nsans savoir ou tu es ni ou aller.\nUn appel a l'aventure t'envahit, et pour apaiser ce sentiment\ntu te lances dans un voyage\nvers les profondeurs du monde humain\na la recherche de sens.",
+        "text2": "Apres avoir resolu l'enigme,\ntu descends encore plus dans l'abime.\nBien que tu ignores les calamites que tu pourrais affronter,\ntu poursuis ton aventure."
+    },
+    "demo_end": {
+        "text": "C'est ici que se termine la demo actuelle du jeu,\nj'espere qu'elle vous a plu"
     }
 }

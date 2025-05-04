@@ -1,7 +1,7 @@
 if (room==MainMenuRoom){
 	
-	var btn_width = 64;
-	var btn_height = 32;
+	var btn_width = 48;
+	var btn_height = 39;
 	var btn_padding = 10;
 	var btn_alpha = 0.8;
 

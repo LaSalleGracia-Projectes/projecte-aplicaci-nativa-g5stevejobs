@@ -4,5 +4,5 @@
 // Inherit the parent event
 event_inherited();
 
-button_text = localize.menu.start
+button_text = localize.basic.start
 
