@@ -40,7 +40,6 @@
     {"name":"objPlataformaMovible","order":4,"path":"objects/objPlataformaMovible/objPlataformaMovible.yy",},
     {"name":"obLocalization","order":14,"path":"objects/obLocalization/obLocalization.yy",},
     {"name":"obPared","order":3,"path":"objects/obPared/obPared.yy",},
-    {"name":"obPause","order":5,"path":"objects/obPause/obPause.yy",},
     {"name":"obPressAnyText","order":6,"path":"objects/obPressAnyText/obPressAnyText.yy",},
     {"name":"obPuzzle","order":8,"path":"objects/obPuzzle/obPuzzle.yy",},
     {"name":"obSlimeBlu","order":3,"path":"objects/obSlimeBlu/obSlimeBlu.yy",},

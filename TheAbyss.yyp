@@ -68,7 +68,6 @@
     {"id":{"name":"obJugador","path":"objects/obJugador/obJugador.yy",},},
     {"id":{"name":"obLocalization","path":"objects/obLocalization/obLocalization.yy",},},
     {"id":{"name":"obPared","path":"objects/obPared/obPared.yy",},},
-    {"id":{"name":"obPause","path":"objects/obPause/obPause.yy",},},
     {"id":{"name":"obPressAnyText","path":"objects/obPressAnyText/obPressAnyText.yy",},},
     {"id":{"name":"obPuzzle","path":"objects/obPuzzle/obPuzzle.yy",},},
     {"id":{"name":"obSlime","path":"objects/obSlime/obSlime.yy",},},
