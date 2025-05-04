@@ -50,7 +50,7 @@ for (var i = 0; i < INVENTORY_SLOTS; i += 1) {
 
         var item_alpha = 0.9;
         draw_sprite_ext(
-            SlimeRed_Quieto,
+            Espada,
             inventory[i], 
             slot_center_x, 
             slot_center_y, 

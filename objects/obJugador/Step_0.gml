@@ -21,3 +21,15 @@ if (mouse_check_button(mb_left)) {
 if (alarm[2] <= 0){
 	alarm[2] = 180
 }
+
+if (room==Level2){
+	obInventario.inventory[1]=1
+}
+
+if (keyboard_check(ord("1"))){
+	arma = ""
+}
+
+if (keyboard_check(ord("2"))){
+	arma = "_Espada"
+}
