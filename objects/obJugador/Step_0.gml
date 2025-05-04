@@ -17,3 +17,7 @@ if (keyboard_check_pressed(ord("W"))) {
 if (mouse_check_button(mb_left)) {
 	scrAtacar();	
 }
+
+if (alarm[2] <= 0){
+	alarm[2] = 180
+}
