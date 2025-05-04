@@ -4,7 +4,6 @@
 function scrAtacar(){
     if (arma != ""){
         accion = "_Atacar"
-        image_index = 0
         
         var rango_ataque = 20;
         
