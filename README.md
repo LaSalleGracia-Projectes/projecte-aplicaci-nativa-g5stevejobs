@@ -1,3 +1,4 @@
+![Image](https://github.com/user-attachments/assets/971df5ac-c96f-47d5-bc17-d9fa80a21a55)
 ## Requisitos
 
 Para abrir y trabajar con este proyecto, se necesita tener instalada la IDE **GameMaker** (preferiblemente en su versión más reciente).
