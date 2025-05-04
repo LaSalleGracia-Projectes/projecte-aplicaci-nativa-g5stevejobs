@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"guardar_instancia_como_map",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"guardar_instancia_como_map",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
