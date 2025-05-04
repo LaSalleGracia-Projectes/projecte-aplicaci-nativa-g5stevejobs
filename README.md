@@ -1,3 +1,27 @@
+# 🎮 Proyecto GameMaker: *The Abbys*
+
+Bienvenido al repositorio del proyecto **The Abbys**, desarrollado con **GameMaker**.  
+Sigue los pasos a continuación para abrir y trabajar con el proyecto correctamente.
+
+---
+
+## ✅ Requisitos
+
+Antes de comenzar, asegúrate de tener instalada la IDE **GameMaker** (preferiblemente la versión más reciente).
+
+🔗 Descárgala aquí: [https://gamemaker.io](https://gamemaker.io)
+
+---
+
+## 📂 Cómo abrir el proyecto
+
+### 🧪 Opción 1: Clonar el repositorio (recomendado para desarrollo)
+
+1. Abre **GameMaker**.
+2. Ve al menú **Source Control** (Control de Versiones).
+3. Haz clic en **Clonar repositorio**.
+4. Introduce esta URL:  
+
 5. Elige una carpeta vacía para clonar el proyecto.
 6. Una vez clonado, se abrirá automáticamente la carpeta del proyecto.
 7. Haz doble clic en el archivo `TheAbbys.yyp` para abrirlo en GameMaker.
