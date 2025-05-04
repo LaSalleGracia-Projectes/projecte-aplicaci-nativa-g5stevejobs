@@ -42,5 +42,7 @@ if (keyboard_check(ord("1"))){
 }
 
 if (keyboard_check(ord("2"))){
-	arma = "_Espada"
+	if (obInventario.inventory[1]=1){
+		arma = "_Espada"
+	}
 }
