@@ -16,9 +16,12 @@
     },
     "story": {
         "text1": "After an unmemorable time you awaken,\nnot knowing where you are or where to go.\nA call to adventure overwhelms you,\nto satisfy that feeling you embark on a journey\nto the deepest part of the human world\nin search of meaning.",
-        "text2": "After solving the puzzle,\nyou descend even further into the abyss.\nAlthough unaware of the calamities you might face,\nyou continue on with your adventure."
+        "text2": "After solving the puzzle,\nyou descend into the abyss.\nAlthough unaware of the calamities you might face,\nyou continue on with your adventure."
     },
     "demo_end": {
         "text": "This is where the current game demo ends,\nI hope you enjoyed it"
+    },
+    "puzzle": {
+        "solved":"Riddle solved"
     }
 }
