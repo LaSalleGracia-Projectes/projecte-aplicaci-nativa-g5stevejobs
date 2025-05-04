@@ -37,6 +37,7 @@
     {"id":{"name":"FuentePixel","path":"fonts/FuentePixel/FuentePixel.yy",},},
     {"id":{"name":"MenuFont","path":"fonts/MenuFont/MenuFont.yy",},},
     {"id":{"name":"MenuTitleFont","path":"fonts/MenuTitleFont/MenuTitleFont.yy",},},
+    {"id":{"name":"Cargar","path":"objects/Cargar/Cargar.yy",},},
     {"id":{"name":"Continuar","path":"objects/Continuar/Continuar.yy",},},
     {"id":{"name":"Guardar","path":"objects/Guardar/Guardar.yy",},},
     {"id":{"name":"obButton","path":"objects/obButton/obButton.yy",},},
@@ -97,8 +98,8 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"roomId":{"name":"MainMenuRoom","path":"rooms/MainMenuRoom/MainMenuRoom.yy",},},
+    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"roomId":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
   ],
   "templateType":"game",

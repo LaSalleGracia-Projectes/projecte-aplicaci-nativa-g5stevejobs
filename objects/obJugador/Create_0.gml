@@ -8,3 +8,5 @@ vida = 10;
 
 vidaTotal = vida;
 danoJugador = 1;
+
+currenRoom = room_get_name(room);

@@ -19,6 +19,7 @@
     {"name":"FuentePixel","order":3,"path":"fonts/FuentePixel/FuentePixel.yy",},
     {"name":"MenuFont","order":1,"path":"fonts/MenuFont/MenuFont.yy",},
     {"name":"MenuTitleFont","order":2,"path":"fonts/MenuTitleFont/MenuTitleFont.yy",},
+    {"name":"Cargar","order":6,"path":"objects/Cargar/Cargar.yy",},
     {"name":"Continuar","order":4,"path":"objects/Continuar/Continuar.yy",},
     {"name":"Guardar","order":5,"path":"objects/Guardar/Guardar.yy",},
     {"name":"obButtonExit","order":2,"path":"objects/obButtonExit/obButtonExit.yy",},
