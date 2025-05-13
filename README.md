@@ -163,12 +163,11 @@ Run the artisant tests
 <!-- ROADMAP -->
 ## Roadmap
 
-- [X] Implementación básica del juego
-- [ ] Sistema de guardado
-- [ ] Mejoras gráficas
-- [ ] Optimización de rendimiento
-
-<!-- See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues). -->
+![image](https://github.com/user-attachments/assets/133e55ae-ff2e-4b32-b83f-0b5ff9d329f2)
+![image](https://github.com/user-attachments/assets/6743321c-3f8f-4768-9419-36ceaa6af250)
+![image](https://github.com/user-attachments/assets/f2932288-4821-44bf-b0a4-77fed5f8799b)
+![image](https://github.com/user-attachments/assets/094d5b53-e714-4107-b659-8426ec9b1b46)
+![image](https://github.com/user-attachments/assets/0fe6c88a-ab87-40e4-b5c4-ef3e2d3728f7)
 
 <p align="right">(<a href="#readme-top">volver arriba</a>)</p>
 
