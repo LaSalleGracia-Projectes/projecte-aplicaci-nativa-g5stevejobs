@@ -31,7 +31,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/LaSalleGracia-Projectes/projecte-aplicaci-nativa-g5stevejobs">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    ![image](https://github.com/user-attachments/assets/b18b9316-2d4c-41bd-a3be-5fcd6ff075c7)
   </a>
 
 <h3 align="center">🎮 The Abbys</h3>
