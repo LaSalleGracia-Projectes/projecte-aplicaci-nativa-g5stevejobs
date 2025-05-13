@@ -149,17 +149,6 @@ Antes de comenzar, asegúrate de tener instalada la IDE **GameMaker** (preferibl
 
 <p align="right">(<a href="#readme-top">volver arriba</a>)</p>
 
-
-## Test
-
-Explain how to run the automated tests for this system
-
-Run the artisant tests
-   ```php
-   php artisan test
-   ```
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- ROADMAP -->
 ## Roadmap
 
