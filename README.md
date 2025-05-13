@@ -30,8 +30,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/LaSalleGracia-Projectes/projecte-aplicaci-nativa-g5stevejobs">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/LaSalleGracia-Projectes/projecte-aplicaci-nativa-g5stevejobs/sprites/Logo">
+    <img src="7c59da40-ec10-414e-a806-ccaa742dfc27.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">🎮 The Abbys</h3>
