@@ -92,7 +92,9 @@ Sigue los pasos a continuación para abrir y trabajar con el proyecto correctame
 ## Contributors
 [![Contributors][contributors-shield]][contributors-url]
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+- Fan Xu (<fanxu1239@gmail.com>)
+- Ivan Gonzalez (<igonzalezforner@gmail.com>)
+- Adrian Lozano (<adrian.lozano.infantes@gmail.com>)
 
 ### Built With
 
