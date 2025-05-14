@@ -38,7 +38,8 @@ if (room==MainMenuRoom){
 	    draw_sprite_ext(language_sprites[i], 0, btn_x, btn_y, btn_width / sprite_get_width(language_sprites[i]), btn_height / sprite_get_height(language_sprites[i]), 0, c_white, 1);
 
 	    if (mouse_hover && mouse_check_button_pressed(mb_left)) {
-	        global.currentLanguage = language_ids[i];
+	        audio_play_sound(ConfirmSound,0,false)
+			global.currentLanguage = language_ids[i];
 	        set_language(global.currentLanguage);
 	    }
 	}

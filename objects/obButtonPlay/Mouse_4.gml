@@ -5,3 +5,4 @@
 event_inherited();
 
 room_goto(TutorialText);
+audio_play_sound(ConfirmSound,0,false)

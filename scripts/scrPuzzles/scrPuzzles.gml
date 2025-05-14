@@ -1,4 +1,16 @@
 function scrInicializarPuzzle(slots) {
+	draw_sprite_ext(
+		PuzzleGuide,
+		0,
+		puzzleWidth - 320,
+		puzzleHeight - 140,
+		5,
+		5,
+		0,
+		c_white,
+		0.4
+	);
+	
     for (var i = 0; i < array_length(slots); i++) {
         for (var j = 0; j < array_length(slots[i]); j++){
             if (slots[i][j] == 0) {
@@ -65,6 +77,7 @@ function find_top_element(column) {
     
     for (var j = array_length(slots[column]) - 1; j >= 0; j--) {
         if (slots[column][j] != 0) {
+			audio_play_sound(ConfirmSound,0,false)
             return j;
         }
     }
@@ -77,6 +90,7 @@ function find_first_empty_slot(column) {
     
     for (var j = 0; j < array_length(slots[column]); j++) {
         if (slots[column][j] == 0) {
+			audio_play_sound(CancelSound,0,false)
             return j;
         }
     }

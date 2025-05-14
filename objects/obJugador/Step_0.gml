@@ -27,6 +27,8 @@ if (mouse_check_button_pressed(mb_left)) {
 
     // Aplica daño del jugador
     _inst.damage *= danoJugador;
+	
+	audio_play_sound(AttackSound,0,false)
 }
 
 if (alarm[2] <= 0){

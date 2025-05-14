@@ -12,7 +12,7 @@
         "any": "Appuie sur une touche pour continuer"
     },
     "instruccions": {
-        "text": "WASD -> Pour se deplacer\nLMB -> Pour attaquer\nE -> Pour equiper un objet"
+        "text": "WASD -> Pour se deplacer\nLMB -> Pour attaquer\nE -> Pour equiper un objet\nESC -> Pour mettre le jeu en pause"
     },
     "story": {
         "text1": "Apres un temps immemorable tu te reveilles,\nsans savoir ou tu es ni ou aller.\nUn appel a l'aventure t'envahit, et pour apaiser ce sentiment\ntu te lances dans un voyage\nvers les profondeurs du monde humain\na la recherche de sens.",

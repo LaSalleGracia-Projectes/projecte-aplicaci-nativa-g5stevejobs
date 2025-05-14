@@ -12,7 +12,7 @@
         "any": "Press any key to continue"
     },
     "instruccions": {
-        "text": "WASD -> To move\nLMB -> To attack\nE -> To equip item"
+        "text": "WASD -> To move\nLMB -> To attack\nE -> To equip item\nESC -> To pause the game"
     },
     "story": {
         "text1": "After an unmemorable time you awaken,\nnot knowing where you are or where to go.\nA call to adventure overwhelms you,\nto satisfy that feeling you embark on a journey\nto the deepest part of the human world\nin search of meaning.",

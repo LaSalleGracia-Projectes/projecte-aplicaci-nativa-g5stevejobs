@@ -3,5 +3,5 @@
 
 // Inherit the parent event
 event_inherited();
-
+audio_play_sound(CancelSound,0,false)
 game_end()

@@ -3,5 +3,6 @@
 function scrSaltar(ancho){
     if (collision_rectangle(x - ancho, y, x + ancho, y + 1, obPared, false, false) && vspeed == 0) {
         vspeed = -5;
+		audio_play_sound(JumpSound,0,false)
     }
 }

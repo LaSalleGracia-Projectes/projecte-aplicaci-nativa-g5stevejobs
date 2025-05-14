@@ -12,11 +12,11 @@
         "any": "Presiona cualquier tecla para continuar"
     },
     "instruccions": {
-        "text": "WASD -> Para moverte\nLMB -> Para atacar\nE -> Para equipar objeto"
+        "text": "WASD -> Para moverte\nLMB -> Para atacar\nE -> Para equipar objeto\nESC -> Para pausar"
     },
     "story": {
         "text1": "Tras un tiempo inmemorable despiertas,\nsin saber donde estas ni donde dirigirte.\nUna llamada a la aventura te abruma,\ny para saciar esa sensacion te embarcas en una travesia\nhacia lo mas profundo del mundo humano\n en busca de sentido.",
-        "text2": "Luego de resolver el acertijo,\ndesciendes al abismo.\nAunque ignoras las calamidades que podrias enfrentar,\nsigues adelante con tu aventura."
+        "text2": "Tras resolver el acertijo,\ndesciendes al abismo.\nAunque ignoras las calamidades que podrias enfrentar,\nsigues adelante con tu aventura."
     },
     "demo_end": {
         "text": "Aqui es donde finaliza la demo actual del juego,\nespero que os haya gustado"
