@@ -35,7 +35,7 @@ if (alarm[2] <= 0){
 	alarm[2] = 180
 }
 
-if (room==Level2){
+if (room==Level2 || room==Level3){
 	obInventario.inventory[1]=1
 }
 

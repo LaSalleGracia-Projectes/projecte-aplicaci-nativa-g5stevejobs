@@ -8,11 +8,11 @@
   "instanceCreationOrder":[
     {"name":"inst_61A03586","path":"rooms/MainMenuRoom/MainMenuRoom.yy",},
     {"name":"inst_15BCD9B0","path":"rooms/MainMenuRoom/MainMenuRoom.yy",},
+    {"name":"inst_6A6CAFFA","path":"rooms/MainMenuRoom/MainMenuRoom.yy",},
     {"name":"inst_5770C36E","path":"roomui/RoomUI/RoomUI.yy",},
     {"name":"inst_74512D82","path":"roomui/RoomUI/RoomUI.yy",},
     {"name":"inst_483CF4DB","path":"roomui/RoomUI/RoomUI.yy",},
     {"name":"inst_64DE2D22","path":"roomui/RoomUI/RoomUI.yy",},
-    {"name":"inst_6A6CAFFA","path":"rooms/MainMenuRoom/MainMenuRoom.yy",},
   ],
   "isDnd":false,
   "layers":[

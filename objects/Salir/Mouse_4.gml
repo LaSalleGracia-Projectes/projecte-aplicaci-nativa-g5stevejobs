@@ -3,6 +3,7 @@
 
 // Inherit the parent event
 event_inherited();
+audio_stop_all();
 room_goto(MainMenuRoom)
 obj_pause_manager.paused = false;
 obj_pause_manager.update_pause();
