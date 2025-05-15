@@ -2,7 +2,6 @@
   "FolderOrderSettings":[
     {"name":"Background","order":4,"path":"folders/Background.yy",},
     {"name":"Fonts","order":5,"path":"folders/Fonts.yy",},
-    {"name":"Sounds","order":16,"path":"folders/Sounds.yy",},
     {"name":"Objetos","order":2,"path":"folders/Objetos.yy",},
     {"name":"Buttons","order":7,"path":"folders/Objetos/Buttons.yy",},
     {"name":"Enemies","order":6,"path":"folders/Objetos/Enemies.yy",},
@@ -12,6 +11,7 @@
     {"name":"Text","order":17,"path":"folders/Objetos/Text.yy",},
     {"name":"Salas","order":3,"path":"folders/Salas.yy",},
     {"name":"Scripts","order":1,"path":"folders/Scripts.yy",},
+    {"name":"Sounds","order":16,"path":"folders/Sounds.yy",},
     {"name":"Enemigos","order":7,"path":"folders/Sprites/Enemigos.yy",},
     {"name":"Slime","order":4,"path":"folders/Sprites/Enemigos/Slime.yy",},
     {"name":"SlimeBlu","order":6,"path":"folders/Sprites/Enemigos/SlimeBlu.yy",},

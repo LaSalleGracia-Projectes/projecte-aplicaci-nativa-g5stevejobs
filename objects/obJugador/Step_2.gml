@@ -4,7 +4,7 @@
 scrComprovarGravedad(ancho);
 
 if (vspeed > 0) {
-	scrComprovarColoisionSuelo(ancho);
+	scrComprovarColisionSuelo(ancho);
 } else if (vspeed < 0) {
 	scrComprovarColisionSobre(ancho, alto);
 }

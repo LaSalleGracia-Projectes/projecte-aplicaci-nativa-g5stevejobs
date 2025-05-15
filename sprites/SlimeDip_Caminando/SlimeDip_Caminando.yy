@@ -37,7 +37,7 @@
   ],
   "name":"SlimeDip_Caminando",
   "nineSlice":null,
-  "origin":9,
+  "origin":7,
   "parent":{
     "name":"SlimeDip",
     "path":"folders/Sprites/Enemigos/SlimeDip.yy",
@@ -134,7 +134,7 @@
     "visibleRange":null,
     "volume":1.0,
     "xorigin":8,
-    "yorigin":16,
+    "yorigin":21,
   },
   "swatchColours":null,
   "swfPrecision":0.5,
