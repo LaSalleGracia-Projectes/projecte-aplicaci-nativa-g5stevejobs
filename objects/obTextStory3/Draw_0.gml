@@ -4,5 +4,5 @@
 // Inherit the parent event
 event_inherited();
 
-text = localize.story.text2
+text = localize.story.text3
 

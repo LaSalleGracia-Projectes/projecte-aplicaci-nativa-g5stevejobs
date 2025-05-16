@@ -16,7 +16,8 @@
     },
     "story": {
         "text1": "Apres un temps immemorable tu te reveilles,\nsans savoir ou tu es ni ou aller.\nUn appel a l'aventure t'envahit, et pour apaiser ce sentiment\ntu te lances dans un voyage\nvers les profondeurs du monde humain\na la recherche de sens.",
-        "text2": "Apres avoir resolu l'enigme,\ntu descends dans l'abime.\nBien que tu ignores les calamites que tu pourrais affronter,\ntu poursuis ton aventure."
+        "text2": "Apres avoir resolu l'enigme,\ntu descends dans l'abime.\nBien que tu ignores les calamites que tu pourrais affronter,\ntu poursuis ton aventure.",
+        "text3": "Par des acrobaties savamment executees, tu parviens\na franchir le lac souterrain.\nPlus tu t'enfonces,\nplus la crainte impregne l'atmosphere."
     },
     "demo_end": {
         "text": "C'est ici que se termine la demo actuelle du jeu,\nj'espere qu'elle vous a plu"
